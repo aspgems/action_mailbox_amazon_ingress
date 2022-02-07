@@ -7,7 +7,6 @@ require 'action_mailbox/engine'
 require 'aws-sdk-sns'
 require 'aws-sdk-s3'
 
-
 require 'action_mailbox_amazon_ingress/engine'
 require 'action_mailbox_amazon_ingress/version'
 
